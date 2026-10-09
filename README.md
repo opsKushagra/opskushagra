@@ -1,6 +1,6 @@
 # Hi, I'm Kushagra 👋
 
-🎓 Pre-Final Year Engineering Student  
+🎓 Final Year Engineering Student  
 💻 Aspiring Software Development Engineer (SDE)  
 ☕ Java | Swing | OOP | Data Structures | Git | HTML | CSS 
 
